@@ -1,0 +1,15 @@
+{
+    "NAME": "TOILET_PAPER_IMAGES",
+    "description": "toilet paper",
+    "image": "ipfs://QmPpKNNwUzMb4XUtdkZssHLWGb8wZGFfRUD4QK6MWeDEzq/paper3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black"
+        },
+        {
+            "trait_type": "paper",
+            "value": "geometric"
+        }
+    ]
+}
